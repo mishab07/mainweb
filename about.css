@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital@1&family=Libre+Baskerville:ital@0;1&display=swap');
+*{
+ 
+  font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Libre Baskerville', serif;
+
+   
+}
+.section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(139, 201, 179);
+     padding: 80px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     margin-right: 50px;
+}
+.img
+{
+    padding-left: 400px;
+    padding-bottom: 60px;
+  
+}
+
+.button{
+    padding-left: 600px;
+   
+   
+}
+button{
+    padding: 10px;   
+    margin: 5px;
+    size: 30px; 
+   font-size:15px;
+   background-color: rgb(73, 155, 141);
+   border-radius: 5px;
+   border-image: stretch;
+   border-style:outset;
+   box-shadow: 30px;
+}
+.button :hover{
+    background-color: rgb(73, 189, 197);
+    
+}
+p{
+    color: rgb(69, 93, 129);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+b{
+    color: rgb(69, 93, 129);
+}
+.content{
+    padding-right: 50px;
+}

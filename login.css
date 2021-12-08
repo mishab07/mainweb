@@ -1,0 +1,66 @@
+button:hover{
+    background-color: beige;
+  
+}
+
+input{
+    background-color: rgb(240, 248, 211);
+   block-size: 16px;
+}
+button{
+
+    font-size: 17px;
+     padding: 8px;
+     background-color: rgb(153, 126, 77);
+   }
+   body{
+    margin: 0%;
+    padding: 0%;
+    background-size: cover;
+    background-position: center;
+}
+
+.login{
+       border-radius: 5px;
+        width: 330px;
+        height: 300px;
+        background: rgba(179, 115, 42, 0.5);
+        color: #fff;
+        top: 40%;
+        left: 50%;
+      position: absolute;
+       transform: translate(-50%,-50%);
+       box-sizing: border-box;
+  
+}
+.contain{
+    padding-left: 40px;
+    color: rgb(75, 71, 67);
+}
+
+.submit{
+    padding-top: 5px;
+    padding-left: 75px;
+
+}
+input{
+    background-color: rgb(223, 223, 187);
+}
+a{
+    list-style: none;
+    padding-left: 150px;
+    text-decoration-line: none;
+    color: rgb(88, 16, 16);
+
+}
+a:hover{
+    font-style: normal;
+    color: chocolate;
+}
+.image{
+    width: 2000px;
+}
+h2{
+  padding-left: 95px;
+  color: rgb(99, 69, 48);
+}

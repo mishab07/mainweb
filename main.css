@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+  
+
+}
+body{
+    font-family: montserrat ;
+    background-color: rgb(204, 177, 146);
+  
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(15, 7, 7);
+}
+label.logo{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 0 100px;
+    color: rgb(228, 228, 228);
+    padding:0 100px;
+    line-height: 80px;
+
+}
+nav ul{
+  float: right;
+  margin-right: 40px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+nav a{
+    color: rgb(196, 196, 196);
+    font-size: 18px;
+    text-transform:capitalize;
+
+    border: 1px solid transparent;
+    padding: 6px 8px;
+    border-radius:2px;
+}
+a.active,a:hover{
+    border: 1px solid rgb(255, 247, 247);
+    transition: .3s ;
+
+}
+nav #icon{
+    color: rgb(112, 85, 53);
+   font-size: 30px;
+   float: right;
+   margin-right: 40px;
+   cursor: pointer;
+   display: none;
+
+}
+.container{
+    height: auto;
+    position: relative;
+    width: 2000px;
+
+}
+
+.container img{
+    width: 1600px;
+    
+  padding-top: 0ch;
+   padding-left:0px;
+   padding-right: 0;
+   padding-bottom:0%;
+   opacity: 0.8;
+
+}
+
+
+ .text2{
+    position: absolute;
+    font-weight: bold;
+    top: 100px;
+    font-weight:200;
+    font-size:20px;
+    padding-left: 75px;
+    padding-top: 120px;
+    color: rgb(26, 22, 22);
+    width: 400px;
+ }
+text1:hover{
+    opacity: 0.2;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-size: cover;
+    background-position: center;
+}

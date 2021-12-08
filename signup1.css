@@ -1,0 +1,49 @@
+button:hover{
+    background-color: beige;
+  
+}
+
+input{
+    background-color: rgb(240, 248, 211);
+   block-size: 16px;
+}
+button{
+
+    font-size: 17px;
+     padding: 8px;
+     background-color: rgb(77, 53, 53);
+   }
+   body{
+    margin: 0%;
+    padding: 0%;
+    background-size: cover;
+    background-position: center;
+}
+
+.login{
+       border-radius: 5px;
+        width: 330px;
+        height: 570px;
+        background: rgba(54, 44, 44, 0.5);
+        color: #fff;
+        top: 50%;
+        left: 50%;
+      position: absolute;
+       transform: translate(-50%,-50%);
+       box-sizing: border-box;
+  
+}
+.contain{
+    padding-left: 40px;
+    color: rgb(27, 23, 23);
+}
+h1{
+    padding-left: 80px;
+}
+.submit{
+    padding-left: 75px;
+
+}
+input{
+    background-color: rgb(137, 132, 141);
+}
